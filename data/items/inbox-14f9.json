@@ -3,7 +3,7 @@
   "title": "Discuss Ushahidi scope with Nedie",
   "type": "prep",
   "company": "ml",
-  "project": null,
+  "project": "ushahidi",
   "status": "inbox",
   "priority": "normal",
   "due": null,
@@ -21,10 +21,14 @@
     {
       "at": "2026-10-23T16:16",
       "text": "Created (Meeting prep)"
+    },
+    {
+      "at": "2026-10-23T16:23",
+      "text": "project → Ushahidi"
     }
   ],
   "created": "2026-10-23T16:16",
-  "last_update": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:23",
   "last_prompted": null,
   "closed": null
 }

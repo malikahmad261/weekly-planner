@@ -8,9 +8,9 @@
   "priority": "normal",
   "due": null,
   "planned_day": null,
-  "waiting_on": "destify-contact",
+  "waiting_on": "gordon",
   "channel": "analytics-huddle",
-  "next_followup": "2026-10-26",
+  "next_followup": "2026-10-28",
   "blocks": [],
   "meeting": null,
   "notes": [],
@@ -21,10 +21,14 @@
     {
       "at": "2026-10-23T16:16",
       "text": "Created (Follow-up, waiting on Destify contact)"
+    },
+    {
+      "at": "2026-10-23T16:23",
+      "text": "waiting on → Gordon"
     }
   ],
   "created": "2026-10-23T16:16",
-  "last_update": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:23",
   "last_prompted": null,
   "closed": null
 }

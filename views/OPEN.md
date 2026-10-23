@@ -2,25 +2,31 @@
 
 _Generated Fri 23 Oct by the planner. Don't edit — ask Claude instead._
 
-## Inspiring Vacations (0)
+## Inspiring Vacations (2)
+### Inspiring Vacations
+- **Follow up with JC: deployment timelines for same-origin domain on sGTM** · follow-up · waiting on JC · waiting `iv-general-8865`
+- **Follow up with Jack on sGTM testing** · follow-up · waiting on Jack · waiting `iv-general-48ba`
 
-## Salam (0)
+## Salam (2)
+### Salam
+- **Ecommerce GTM deck** · planned Tue 27 Oct · planned `salam-general-f549`
+- **User stories for phase 2** · planned Wed 28 Oct · planned `salam-general-ddcc`
 
 ## MarketLytics (21)
 ### Destify
 - **Destify: follow up on publishing consent setup** · planned `destify-2d92`
-- **Destify: publish test campaign for signal engineering** · follow-up · waiting on Destify contact · waiting `destify-75c2`
+- **Destify: publish test campaign for signal engineering** · follow-up · waiting on Gordon · waiting `destify-75c2`
 ### RVShare
 - **Moattar: Mixpanel project (bot traffic handling + business questions to events/properties mapping)** · follow-up · waiting on Moattar · waiting · ⚑ high · 0/1 steps `rvshare-8389`
 - **Prep RVShare strategy session (w/c 2 Nov) with Nedie** · meeting prep · planned · 0/1 steps `rvshare-ac61`
-- **RVShare: confirm when to publish server GTM (soft chase)** · follow-up · waiting on RVShare team · waiting `rvshare-c418`
+- **RVShare: confirm when to publish server GTM (soft chase)** · follow-up · waiting on RVShare contact · waiting `rvshare-c418`
 - **Remind Talha to check web GTM data over the weekend (published)** · follow-up · waiting on Talha · waiting `rvshare-a6ac`
 - **Saad: RVShare Marketing Mix Modelling** · follow-up · waiting on Saad · waiting · 0/1 steps `rvshare-3b98`
 - **Saad: attribution reporting bug** · follow-up · waiting on Saad · waiting `rvshare-8f4d`
 ### Wiideman - Retainer
 - **Motabar: were the alerts deployed?** · follow-up · waiting on Motabar · waiting `wiideman-retainer-fdb9`
 ### IQAir.com
-- **IQAir: follow up on maintenance retainer** · follow-up · waiting on IQAir contact · waiting `iqair-da85`
+- **IQAir: follow up on maintenance retainer** · follow-up · waiting on Mark · waiting `iqair-da85`
 ### Austell
 - **Austell: close project + schedule leadership review meeting** · follow-up · waiting on Riyantha · waiting `austell-0da4`
 - **Austell: open tasks planned for next week (awais)** · follow-up · waiting on Awais · waiting `austell-7699`
@@ -36,5 +42,5 @@ _Generated Fri 23 Oct by the planner. Don't edit — ask Claude instead._
 - **Introduce Nedie to the Fenton team + quick debrief** · meeting prep · planned Mon 26 Oct · planned `kipp-fenton-65c6`
 ### PuroAir
 - **Awais: send subscription change trigger from BQ to Recharge** · follow-up · waiting on Awais · waiting `puroair-2fe4`
-### No project yet
+### Ushahidi
 - **Discuss Ushahidi scope with Nedie** · meeting prep · planned Mon 26 Oct · inbox `inbox-14f9`

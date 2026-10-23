@@ -304,5 +304,14 @@
     "status": "active",
     "partner": null,
     "default_channel": "marketlytics-slack"
+  },
+  {
+    "id": "ushahidi",
+    "name": "Ushahidi",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
   }
 ]

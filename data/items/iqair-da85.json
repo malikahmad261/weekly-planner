@@ -8,7 +8,7 @@
   "priority": "normal",
   "due": null,
   "planned_day": null,
-  "waiting_on": "iqair-contact",
+  "waiting_on": "mark",
   "channel": "analytics-huddle",
   "next_followup": "2026-10-28",
   "blocks": [],
@@ -21,10 +21,14 @@
     {
       "at": "2026-10-23T16:16",
       "text": "Created (Follow-up, waiting on IQAir contact)"
+    },
+    {
+      "at": "2026-10-23T16:23",
+      "text": "waiting on → Mark"
     }
   ],
   "created": "2026-10-23T16:16",
-  "last_update": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:23",
   "last_prompted": null,
   "closed": null
 }

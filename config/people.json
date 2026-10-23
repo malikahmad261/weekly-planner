@@ -214,5 +214,51 @@
     "projects": [
       "destify"
     ]
+  },
+  {
+    "id": "gordon",
+    "name": "Gordon",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "destify"
+    ]
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "iqair"
+    ]
+  },
+  {
+    "id": "rvshare-contact",
+    "name": "RVShare contact",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "rvshare"
+    ]
+  },
+  {
+    "id": "jack",
+    "name": "Jack",
+    "company": "iv",
+    "role": "colleague",
+    "channel": "iv-slack",
+    "projects": []
+  },
+  {
+    "id": "jc",
+    "name": "JC",
+    "company": "iv",
+    "role": "colleague",
+    "channel": "iv-slack",
+    "projects": []
   }
 ]
