@@ -8,14 +8,6 @@
     "project": null
   },
   {
-    "id": "m-1026-e9d2",
-    "date": "2026-10-26",
-    "time": "11:30",
-    "title": "Ahmed / Moattar",
-    "company": "ml",
-    "project": null
-  },
-  {
     "id": "m-1026-96aa",
     "date": "2026-10-26",
     "time": "12:30",
@@ -28,14 +20,6 @@
     "date": "2026-10-26",
     "time": "13:30",
     "title": "POs Daily Standup",
-    "company": "salam",
-    "project": null
-  },
-  {
-    "id": "m-1026-88e0",
-    "date": "2026-10-26",
-    "time": "14:00",
-    "title": "Ecommerce Bi-weekly",
     "company": "salam",
     "project": null
   },
@@ -64,14 +48,6 @@
     "project": null
   },
   {
-    "id": "m-1027-a864",
-    "date": "2026-10-27",
-    "time": "12:00",
-    "title": "Saad - Checkin",
-    "company": "ml",
-    "project": null
-  },
-  {
     "id": "m-1027-e052",
     "date": "2026-10-27",
     "time": "13:30",
@@ -86,14 +62,6 @@
     "title": "SRC Checkin - Ahmed",
     "company": "ml",
     "project": null
-  },
-  {
-    "id": "m-1027-64eb",
-    "date": "2026-10-27",
-    "time": "14:30",
-    "title": "Fenix <> Marketlytics weekly meeting",
-    "company": "ml",
-    "project": "fenix"
   },
   {
     "id": "m-1027-f2c7",
@@ -132,14 +100,6 @@
     "date": "2026-10-28",
     "time": "13:30",
     "title": "POs Daily Standup",
-    "company": "salam",
-    "project": null
-  },
-  {
-    "id": "m-1028-6a1c",
-    "date": "2026-10-28",
-    "time": "15:00",
-    "title": "Convergence Project - Mobile Team | Digital Team - Weekly Meeting",
     "company": "salam",
     "project": null
   },
@@ -184,14 +144,6 @@
     "project": null
   },
   {
-    "id": "m-1029-c3be",
-    "date": "2026-10-29",
-    "time": "14:00",
-    "title": "Ecommerce Bi-weekly",
-    "company": "salam",
-    "project": null
-  },
-  {
     "id": "m-1029-388b",
     "date": "2026-10-29",
     "time": "15:00",
@@ -208,14 +160,6 @@
     "project": null
   },
   {
-    "id": "m-1029-dba0",
-    "date": "2026-10-29",
-    "time": "17:00",
-    "title": "Fenix <> Marketlytics weekly meeting",
-    "company": "ml",
-    "project": "fenix"
-  },
-  {
     "id": "m-1029-361b",
     "date": "2026-10-29",
     "time": "19:00",
@@ -230,6 +174,14 @@
     "title": "Hussain / IQAir Touch Base",
     "company": "ml",
     "project": "iqair"
+  },
+  {
+    "id": "m-1030-8a93",
+    "date": "2026-10-30",
+    "time": "12:00",
+    "title": "Saad - Checkin",
+    "company": "ml",
+    "project": null
   },
   {
     "id": "m-1030-91b9",

@@ -17,8 +17,8 @@ _Generated Fri 23 Oct by the planner. Don't edit — ask Claude instead._
 - **Destify: follow up on publishing consent setup** · planned `destify-2d92`
 - **Destify: publish test campaign for signal engineering** · follow-up · waiting on Gordon · waiting `destify-75c2`
 ### RVShare
+- **Prep RVShare strategy session (w/c 2 Nov) with Nedie** · meeting prep · due Wed 4 Nov · planned Fri 30 Oct · planned · 0/1 steps `rvshare-ac61`
 - **Moattar: Mixpanel project (bot traffic handling + business questions to events/properties mapping)** · follow-up · waiting on Moattar · waiting · ⚑ high · 0/1 steps `rvshare-8389`
-- **Prep RVShare strategy session (w/c 2 Nov) with Nedie** · meeting prep · planned · 0/1 steps `rvshare-ac61`
 - **RVShare: confirm when to publish server GTM (soft chase)** · follow-up · waiting on RVShare contact · waiting `rvshare-c418`
 - **Remind Talha to check web GTM data over the weekend (published)** · follow-up · waiting on Talha · waiting `rvshare-a6ac`
 - **Saad: RVShare Marketing Mix Modelling** · follow-up · waiting on Saad · waiting · 0/1 steps `rvshare-3b98`
