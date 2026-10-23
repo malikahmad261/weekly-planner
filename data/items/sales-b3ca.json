@@ -1,0 +1,35 @@
+{
+  "id": "sales-b3ca",
+  "title": "Motabar: target list of companies",
+  "type": "followup",
+  "company": "ml",
+  "project": "sales",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "motabar",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-27",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Tuesday morning"
+    }
+  ],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Motabar)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

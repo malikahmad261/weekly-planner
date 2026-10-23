@@ -1,0 +1,35 @@
+{
+  "id": "wiideman-retainer-fdb9",
+  "title": "Motabar: were the alerts deployed?",
+  "type": "followup",
+  "company": "ml",
+  "project": "wiideman-retainer",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "motabar",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-26",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "If not deployed, ask Ahmed to set another follow-up date"
+    }
+  ],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Motabar)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

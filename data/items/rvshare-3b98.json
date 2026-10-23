@@ -1,0 +1,44 @@
+{
+  "id": "rvshare-3b98",
+  "title": "Saad: RVShare Marketing Mix Modelling",
+  "type": "followup",
+  "company": "ml",
+  "project": "rvshare",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "saad",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-28",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Check progress Wed. Saad preparing client data request (discount promotions) and extracting revenue + channel-wise spend in parallel"
+    }
+  ],
+  "links": [],
+  "subtasks": [
+    {
+      "text": "Evaluate results",
+      "done": false
+    }
+  ],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Saad)"
+    },
+    {
+      "at": "2026-10-23T16:16",
+      "text": "sub-step: Evaluate results"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

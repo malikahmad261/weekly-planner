@@ -1,0 +1,35 @@
+{
+  "id": "destify-2d92",
+  "title": "Destify: follow up on publishing consent setup",
+  "type": "task",
+  "company": "ml",
+  "project": "destify",
+  "status": "planned",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": null,
+  "channel": null,
+  "next_followup": null,
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "No date yet. Check with Ahmed in ~2 weeks"
+    }
+  ],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Task)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

@@ -166,5 +166,53 @@
     "role": "team",
     "channel": "marketlytics-slack",
     "projects": []
+  },
+  {
+    "id": "nedie",
+    "name": "Nedie",
+    "company": "ml",
+    "role": "team",
+    "channel": "marketlytics-slack",
+    "projects": []
+  },
+  {
+    "id": "riyantha",
+    "name": "Riyantha",
+    "company": "ml",
+    "role": "client",
+    "channel": "ml-email",
+    "projects": [
+      "austell"
+    ]
+  },
+  {
+    "id": "rvshare-team",
+    "name": "RVShare team",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "rvshare"
+    ]
+  },
+  {
+    "id": "iqair-contact",
+    "name": "IQAir contact",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "iqair"
+    ]
+  },
+  {
+    "id": "destify-contact",
+    "name": "Destify contact",
+    "company": "ml",
+    "role": "client",
+    "channel": "analytics-huddle",
+    "projects": [
+      "destify"
+    ]
   }
 ]

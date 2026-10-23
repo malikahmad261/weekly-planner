@@ -1,0 +1,35 @@
+{
+  "id": "rvshare-c418",
+  "title": "RVShare: confirm when to publish server GTM (soft chase)",
+  "type": "followup",
+  "company": "ml",
+  "project": "rvshare",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "rvshare-team",
+  "channel": "analytics-huddle",
+  "next_followup": "2026-10-30",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Soft follow-up, end of week"
+    }
+  ],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on RVShare team)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "rvshare-ac61",
+  "title": "Prep RVShare strategy session (w/c 2 Nov) with Nedie",
+  "type": "prep",
+  "company": "ml",
+  "project": "rvshare",
+  "status": "planned",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": null,
+  "channel": null,
+  "next_followup": null,
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Take Hussain onboard and get his feedback before presenting to the client"
+    }
+  ],
+  "links": [],
+  "subtasks": [
+    {
+      "text": "Get Hussain onboard + his feedback before client presentation",
+      "done": false
+    }
+  ],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Meeting prep)"
+    },
+    {
+      "at": "2026-10-23T16:16",
+      "text": "sub-step: Get Hussain onboard + his feedback before client presentation"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kipp-fenton-65c6",
+  "title": "Introduce Nedie to the Fenton team + quick debrief",
+  "type": "prep",
+  "company": "ml",
+  "project": "kipp-fenton",
+  "status": "planned",
+  "priority": "normal",
+  "due": null,
+  "planned_day": "2026-10-26",
+  "waiting_on": null,
+  "channel": null,
+  "next_followup": null,
+  "blocks": [],
+  "meeting": "m-1026-0158",
+  "notes": [],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Meeting prep)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

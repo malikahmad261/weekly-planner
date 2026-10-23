@@ -1,0 +1,44 @@
+{
+  "id": "rvshare-8389",
+  "title": "Moattar: Mixpanel project (bot traffic handling + business questions to events/properties mapping)",
+  "type": "followup",
+  "company": "ml",
+  "project": "rvshare",
+  "status": "waiting",
+  "priority": "high",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "moattar",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-27",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Strict follow-up needed"
+    }
+  ],
+  "links": [],
+  "subtasks": [
+    {
+      "text": "Map business questions to events and properties",
+      "done": false
+    }
+  ],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Moattar)"
+    },
+    {
+      "at": "2026-10-23T16:16",
+      "text": "sub-step: Map business questions to events and properties"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

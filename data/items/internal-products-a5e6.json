@@ -1,0 +1,30 @@
+{
+  "id": "internal-products-a5e6",
+  "title": "Hasnain: fixing Nova issues",
+  "type": "followup",
+  "company": "ml",
+  "project": "internal-products",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "hasnain",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-27",
+  "blocks": [],
+  "meeting": null,
+  "notes": [],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Hasnain)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}

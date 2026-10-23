@@ -1,0 +1,35 @@
+{
+  "id": "puroair-2fe4",
+  "title": "Awais: send subscription change trigger from BQ to Recharge",
+  "type": "followup",
+  "company": "ml",
+  "project": "puroair",
+  "status": "waiting",
+  "priority": "normal",
+  "due": null,
+  "planned_day": null,
+  "waiting_on": "awais",
+  "channel": "marketlytics-slack",
+  "next_followup": "2026-10-26",
+  "blocks": [],
+  "meeting": null,
+  "notes": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Monday evening"
+    }
+  ],
+  "links": [],
+  "subtasks": [],
+  "slips": [],
+  "log": [
+    {
+      "at": "2026-10-23T16:16",
+      "text": "Created (Follow-up, waiting on Awais)"
+    }
+  ],
+  "created": "2026-10-23T16:16",
+  "last_update": "2026-10-23T16:16",
+  "last_prompted": null,
+  "closed": null
+}
