@@ -1,0 +1,25 @@
+{
+  "timezone": "Asia/Karachi",
+  "working_days": [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri"
+  ],
+  "followup_cadence_working_days": {
+    "team": 2,
+    "colleague": 2,
+    "client": 3,
+    "partner": 3
+  },
+  "followup_lead_before_due_working_days": 1,
+  "stale_after_working_days": 10,
+  "overload_threshold_per_day": 8,
+  "archive_after_weeks": 8,
+  "schedules": {
+    "morning_brief": "Mon-Fri 10:00",
+    "end_of_day": "Mon-Fri 17:00",
+    "friday_planning": "Fri 12:00"
+  }
+}

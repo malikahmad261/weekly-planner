@@ -1,0 +1,44 @@
+[
+  {
+    "id": "analytics-huddle",
+    "name": "Analytics Huddle (Slack)",
+    "kind": "slack",
+    "company": "ml",
+    "use": "Clients"
+  },
+  {
+    "id": "marketlytics-slack",
+    "name": "MarketLytics (Slack)",
+    "kind": "slack",
+    "company": "ml",
+    "use": "Internal team"
+  },
+  {
+    "id": "ml-email",
+    "name": "Email (MarketLytics)",
+    "kind": "email",
+    "company": "ml",
+    "use": "Clients on email (Austell)"
+  },
+  {
+    "id": "salam-teams",
+    "name": "Teams (Salam)",
+    "kind": "teams",
+    "company": "salam",
+    "use": "Salam"
+  },
+  {
+    "id": "salam-email",
+    "name": "Email (Salam)",
+    "kind": "email",
+    "company": "salam",
+    "use": "Salam"
+  },
+  {
+    "id": "iv-slack",
+    "name": "Inspiring Vacations (Slack)",
+    "kind": "slack",
+    "company": "iv",
+    "use": "Inspiring Vacations"
+  }
+]
