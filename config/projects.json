@@ -1,0 +1,308 @@
+[
+  {
+    "id": "iv-general",
+    "name": "Inspiring Vacations",
+    "company": "iv",
+    "group": "general",
+    "status": "active",
+    "partner": null,
+    "default_channel": "iv-slack"
+  },
+  {
+    "id": "salam-general",
+    "name": "Salam",
+    "company": "salam",
+    "group": "general",
+    "status": "active",
+    "partner": null,
+    "default_channel": "salam-teams"
+  },
+  {
+    "id": "destify",
+    "name": "Destify",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "fenix",
+    "name": "Fenix Monthly Analytics Retainer",
+    "company": "ml",
+    "group": "retainer",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "rvshare",
+    "name": "RVShare",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "wiideman-retainer",
+    "name": "Wiideman - Retainer",
+    "company": "ml",
+    "group": "retainer",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "shamaazi",
+    "name": "Shamaazi",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "gendergp",
+    "name": "GenderGP",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "iqair",
+    "name": "IQAir.com",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "ine",
+    "name": "INE",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "arm",
+    "name": "ARM",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "mr-manhole",
+    "name": "Mr. Manhole by Ted",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": "ted",
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "geotrek",
+    "name": "GeoTrek by Ted (Retainer)",
+    "company": "ml",
+    "group": "retainer",
+    "status": "active",
+    "partner": "ted",
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "stipop",
+    "name": "Stipop",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "campbowwow",
+    "name": "Campbowwow",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "zenith-design",
+    "name": "Zenith Design by Ted",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": "ted",
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "honey-creek",
+    "name": "Honey Creek Resort",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "alludo",
+    "name": "Alludo",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "boardroom",
+    "name": "Boardroom",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "siriusxm",
+    "name": "Sirius XM",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "hollywood-mirrors",
+    "name": "Hollywood Mirrors",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "austell",
+    "name": "Austell",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "ml-email"
+  },
+  {
+    "id": "internal-products",
+    "name": "Internal Products",
+    "company": "ml",
+    "group": "internal",
+    "status": "active",
+    "partner": null,
+    "default_channel": "marketlytics-slack"
+  },
+  {
+    "id": "vanworks",
+    "name": "VanWorks by Ted",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": "ted",
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "nova-urology",
+    "name": "Nova Urology by Ted",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": "ted",
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "wiideman-ai",
+    "name": "Wiideman - AI",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "sales",
+    "name": "Sales",
+    "company": "ml",
+    "group": "internal",
+    "status": "active",
+    "partner": null,
+    "default_channel": "marketlytics-slack"
+  },
+  {
+    "id": "expansion",
+    "name": "Expansion",
+    "company": "ml",
+    "group": "internal",
+    "status": "active",
+    "partner": null,
+    "default_channel": "marketlytics-slack"
+  },
+  {
+    "id": "growth",
+    "name": "Growth",
+    "company": "ml",
+    "group": "internal",
+    "status": "active",
+    "partner": null,
+    "default_channel": "marketlytics-slack"
+  },
+  {
+    "id": "kipp-fenton",
+    "name": "KIPP - Fenton",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "puroair",
+    "name": "PuroAir",
+    "company": "ml",
+    "group": "client",
+    "status": "active",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "sendwave",
+    "name": "Sendwave Compliance - Adhoc",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "zepz",
+    "name": "Zepz - AutoRek Recon",
+    "company": "ml",
+    "group": "client",
+    "status": "paused",
+    "partner": null,
+    "default_channel": "analytics-huddle"
+  },
+  {
+    "id": "people-ops",
+    "name": "People Ops",
+    "company": "ml",
+    "group": "internal",
+    "status": "active",
+    "partner": null,
+    "default_channel": "marketlytics-slack"
+  }
+]

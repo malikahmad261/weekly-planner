@@ -1,0 +1,17 @@
+[
+  {
+    "id": "iv",
+    "name": "Inspiring Vacations",
+    "notes": "One weekly recurring meeting (sits on the Salam calendar). Very few tasks."
+  },
+  {
+    "id": "salam",
+    "name": "Salam",
+    "notes": "Many meetings, few tasks."
+  },
+  {
+    "id": "ml",
+    "name": "MarketLytics",
+    "notes": "8-10 active client projects. Heavy client and team comms."
+  }
+]
